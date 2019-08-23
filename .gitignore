@@ -1,0 +1,5 @@
+.vscode/
+CMake*
+Make*
+cmake*
+*.out
